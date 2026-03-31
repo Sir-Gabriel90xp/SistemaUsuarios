@@ -1,8 +1,4 @@
-/* ============================================================
-   Script SQL Server - Sistema de Gestión de Usuarios (Login)
-   Base de datos: SistemaUsuariosDB
-   Listo para ejecutar en SQL Server Management Studio (SSMS)
-   ============================================================ */
+
 
 SET NOCOUNT ON;
 GO
