@@ -2,6 +2,10 @@
 
 Proyecto con interfaz Swing para gestión de usuarios y login.
 
+## Estudiante 
+- Daury Gabriel Robles Mejia
+- 2025-2023
+
 ## Requisitos
 
 - SQL Server (LocalDB o instancia completa)
